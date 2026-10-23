@@ -1,7 +1,7 @@
 evaluation/*
-!evaluation/gt/
-!evaluation/reports/
-!evaluation/results/
+!evaluation/gt/BAR-ATH_possession_t_public.csv
+!evaluation/gt/BAR-ATH_possession_t_public_meta.json
+!evaluation/reports/README.md
 !evaluation/results/README.md
 !evaluation/possession_metrics.py
 !evaluation/run_evaluation.py
