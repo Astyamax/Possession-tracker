@@ -1,18 +1,18 @@
-/evaluation/*
+/src/evaluation/*
 
-!/evaluation/gt/
-/evaluation/gt/*
-!/evaluation/gt/BAR-ATH_possession_gt_public.csv
-!/evaluation/gt/BAR-ATH_possession_gt_public_meta.json
+!/src/evaluation/gt/
+/src/evaluation/gt/*
+!/src/evaluation/gt/BAR-ATH_possession_gt_public.csv
+!/src/evaluation/gt/BAR-ATH_possession_gt_public_meta.json
 
-!/evaluation/reports/
-/evaluation/reports/*
-!/evaluation/reports/README.md
+!/src/evaluation/reports/
+/src/evaluation/reports/*
+!/src/evaluation/reports/README.md
 
-!/evaluation/results/
-/evaluation/results/*
-!/evaluation/results/README.md
+!/src/evaluation/results/
+/src/evaluation/results/*
+!/src/evaluation/results/README.md
 
-!/evaluation/possession_metrics.py
-!/evaluation/run_evaluation.py
-!/evaluation/validate_submission.py
+!/src/evaluation/possession_metrics.py
+!/src/evaluation/run_evaluation.py
+!/src/evaluation/validate_submission.py
