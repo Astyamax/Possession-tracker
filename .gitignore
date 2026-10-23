@@ -16,5 +16,3 @@
 !/evaluation/possession_metrics.py
 !/evaluation/run_evaluation.py
 !/evaluation/validate_submission.py
-
-/venv/*
