@@ -1,0 +1,8 @@
+evaluation/*
+!evaluation/gt/
+!evaluation/reports/
+!evaluation/results/
+!evaluation/results/README.md
+!evaluation/possession_metrics.py
+!evaluation/run_evaluation.py
+!evaluation/validate_submission.py
